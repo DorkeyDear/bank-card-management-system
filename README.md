@@ -1,3 +1,4 @@
+
 # Bank Card Management System
 
 ## Описание проекта
@@ -112,7 +113,7 @@ mvn spring-boot:run
 * OpenAPI спецификация: `http://localhost:8081/v3/api-docs`
 
 ## Скриншот
-![Swagger UI](swagger.png)
+![Swagger UI](Swagger.png)
 
 ## Тестирование
 

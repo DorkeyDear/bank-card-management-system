@@ -111,6 +111,9 @@ mvn spring-boot:run
 * Swagger UI: `http://localhost:8081/swagger-ui.html`
 * OpenAPI спецификация: `http://localhost:8081/v3/api-docs`
 
+## Скриншот
+![Swagger UI](swagger.png)
+
 ## Тестирование
 
 Для запуска тестов в проекте, выполните следующую команду:
